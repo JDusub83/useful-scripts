@@ -1,0 +1,3 @@
+[submodule "black-selection/black_selection.sh"]
+	path = black-selection/black_selection.sh
+	url = https://gist.github.com/JDusub83/ba2848d71644f4c3496def4c1a1d9fc8
