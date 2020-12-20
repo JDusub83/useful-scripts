@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Script to make flushing the DNS cache on macOS a breeze.
+
 # SEE: https://gist.github.com/scriptingosx/670991d7ec2661605f4e3a40da0e37aa
 os_ver=${1:-$(sw_vers -productVersion)}
 

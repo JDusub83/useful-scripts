@@ -8,7 +8,7 @@ Followed the blog post [Partial Python code formatting with Black & PyCharm][1]
 and made some improvementss.  The main improvement was a workaround for 
 [`sed` failing on empty files][2].
 
-## `flush_dns.sh`
+## `flush_dns_cache.sh`
 
 Converted the commands listed in the articles 
 [MacPaw How to Flush DNS cache on Mac][3] and 
